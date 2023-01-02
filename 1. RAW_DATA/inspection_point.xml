@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>admin</Author>
+  <LastAuthor>admin</LastAuthor>
+  <Created>2022-12-20T15:26:31Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8916</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="inspection_point">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="47" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Row>
+    <Cell><Data ss:Type="String">point_id</Data></Cell>
+    <Cell><Data ss:Type="String">Description</Data></Cell>
+    <Cell><Data ss:Type="String">category</Data></Cell>
+    <Cell><Data ss:Type="String">code</Data></Cell>
+    <Cell><Data ss:Type="String">fine</Data></Cell>
+    <Cell><Data ss:Type="String">point_level</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Source sound condition, no spoilage, foods properly labeled, shellfish tags in place</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (B) (B-2)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Facilities to maintain proper temperature</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (B) (B-2)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Potentially hazardous food meets temperature requirement during storage, preparation display and service</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Source of cross contamination controlled i.e. cutting boards, food handlers, utensils, etc</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Personnel with infections restricted: no open sores, wounds, etc</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-010 (A) (B)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Hands washed and cleaned, good hygienic practices; bare hand contact with ready to eat food minimized</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-010 (A) (B)</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Wash and rinse water: clean and proper temperature</Data></Cell>
+    <Cell><Data ss:Type="String">Food Equipment and Utensil Sanitation</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Sanitizing rinse for equipment and utensils: clean, proper temperature, concentration, exposure time</Data></Cell>
+    <Cell><Data ss:Type="String">Food Equipment and Utensil Sanitation</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-031</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Water source: safe, hot &amp; cold under city pressure</Data></Cell>
+    <Cell><Data ss:Type="String">Wash and Waste Water Disposal</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Sewage and waste water disposal, no back siphonage, cross connection and/or back flow</Data></Cell>
+    <Cell><Data ss:Type="String">Wash and Waste Water Disposal</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-031</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Adequate number, convenient, accessible, designed, and maintained</Data></Cell>
+    <Cell><Data ss:Type="String">Toilet and Hand Washing Facilities for Staff</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Hand washing facilities: with soap and sanitary hand drying devices, convenient and accessible to food prep area</Data></Cell>
+    <Cell><Data ss:Type="String">Toilet and Hand Washing Facilities for Staff</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-031</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">No evidence of rodent or insect infestation, no birds, turtles or other animals</Data></Cell>
+    <Cell><Data ss:Type="String">Compliance Insect and Rodent Control</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-020</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Previous serious violation corrected</Data></Cell>
+    <Cell><Data ss:Type="String">Compliance</Data></Cell>
+    <Cell><Data ss:Type="String">7-42-090</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell><Data ss:Type="String">Critical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Unwrapped and potentially hazardous food not re-served</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Food protected during storage, preparation, display, service and transportation</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Potentially hazardous food properly thawed</Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">No evidence of rodent or insect outer openings protected/rodent proofed, a written log shall be maintained available to the inspectors</Data></Cell>
+    <Cell><Data ss:Type="String">Insect and Rodent Control</Data></Cell>
+    <Cell><Data ss:Type="String">Garbage 7-38-020</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Outside garbage waste grease and storage area; clean, rodent proof, all containers covered</Data></Cell>
+    <Cell><Data ss:Type="String">Insect and Rodent Control</Data></Cell>
+    <Cell><Data ss:Type="String">Garbage 7-38-021</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Inside containers or receptacles: adequate number, properly covered and insect/rodent proof</Data></Cell>
+    <Cell><Data ss:Type="String">Insect and Rodent Control</Data></Cell>
+    <Cell><Data ss:Type="String">Garbage 7-38-022</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">* Certified Food Manager on site when potentially hazardous foods are prepared and served</Data></Cell>
+    <Cell><Data ss:Type="String">Personnel</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-012</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">Dish machines: provided with accurate thermometers, chemical test kits and suitable gauge cock </Data></Cell>
+    <Cell><Data ss:Type="String">Food Equipment and Utensil</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Dishes and utensils flushed, scraped, soaked </Data></Cell>
+    <Cell><Data ss:Type="String">Food Equipment and Utensil</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-031</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">Dish washing facilities: properly designed, constructed, maintained, installed, located and operated </Data></Cell>
+    <Cell><Data ss:Type="String">Food Equipment and Utensil</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Toxic items properly stored, labeled and used </Data></Cell>
+    <Cell><Data ss:Type="String">Toxic Items</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A), 7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Adequate number, convenient, accessible, properly designed and installed </Data></Cell>
+    <Cell><Data ss:Type="String">Toilet / Hand Washing Facilities For Customers</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Toilet rooms enclosed clean, provided with hand cleanser, sanitary hand drying devices and proper waste receptacles </Data></Cell>
+    <Cell><Data ss:Type="String">Toilet / Hand Washing Facilities For Customers</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-031</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Inspection report summary displayed and visible to all customers </Data></Cell>
+    <Cell><Data ss:Type="String">Display of Inspection Report Summary</Data></Cell>
+    <Cell><Data ss:Type="String">7-42-010 (B)</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Previous minor violation(s) Corrected</Data></Cell>
+    <Cell><Data ss:Type="String">Compliance</Data></Cell>
+    <Cell><Data ss:Type="String">7-42-090 </Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="String">Serious </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Food in original container, properly labeled: customer advisory posted as needed </Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">Clean multi-use utensils and single service articles properly stored: no reuse of single service articles </Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Food and non-food contact surfaces properly designed, constructed and maintained </Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">Food and non-food contact equipment utensils clean, free of abrasive detergents </Data></Cell>
+    <Cell><Data ss:Type="String">Food Protection</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Floors: constructed per code, cleaned, good repair, covering installed, dust-less cleaning methods used </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">Walls, ceilings, attached equipment constructed per code: good repair, surfaces clean and dust-less cleaning methods </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">Lighting: required minimum foot-candles of light provided, fixtures shielded  </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">Toilet room doors self closing: dressing rooms with lockers provided: complete separation from living/sleeping quarters </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Ventilation: rooms and equipment vented as required: plumbing: installed and maintained </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">Linen: clean and soiled properly stored </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">Refrigeration and metal stem thermometers provided and conspicuous </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">Premises maintained free of litter, unnecessary articles, cleaning equipment properly stored </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell><Data ss:Type="String">Appropriate method of handling of food (ice) hair restraints and clean apparel worn </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Food (ice) dispensing utensils, wash cloths properly stored </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Only authorized personnel in the food-prep area </Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">Food handler requrirements met</Data></Cell>
+    <Cell><Data ss:Type="String">Food Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">7-38-030, 015, 010 (A), 005 (A)</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">No Smoking Regulations </Data></Cell>
+    <Cell><Data ss:Type="String">No Smoking Regulations</Data></Cell>
+    <Cell><Data ss:Type="String">7-32-010 Through 090</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="String">Minor   </Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>3</TopRowVisible>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
